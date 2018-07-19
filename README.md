@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Machine learning overview](#machine-learning-overview)
+- ~[Machine learning overview](#machine-learning-overview)~
 - [Machine learning mastery](#machine-learning-mastery)
 - [Machine learning is fun](#machine-learning-is-fun)
 - [Inky Machine Learning](#inky-machine-learning)
